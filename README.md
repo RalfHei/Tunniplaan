@@ -13,3 +13,4 @@ Antud projekt on mõeldud Kuressaare Ametikooli tunniplaani lehekülje kasutajas
 * Telefonis tühju päevi ja tunde ei kuva
 * Lehekülje lõpus üleliigsed tagid
 * Samal ajal samas klassis olevate õpetajate tunniplaanid on segamini välja toodud
+* Tunniplaani näitab ette terve nädala ja kõik on liiga kokku pakitud
