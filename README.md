@@ -13,4 +13,4 @@
 ## Probleemid
 * 1h30min tunnid on poolitatud 45 minutilisteks tundideks
 * Mobiilis nuppude käsitlemine keeruline
-* Telefonis tühju päevi ei kuva
+* Telefonis tühju päevi ja tunde ei kuva
