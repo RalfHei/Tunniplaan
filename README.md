@@ -15,3 +15,4 @@
 * Mobiilis nuppude käsitlemine keeruline
 * Telefonis tühju päevi ja tunde ei kuva
 * Lehekülje lõpus üleliigsed tagid
+* Samal ajal samas klassis olevate õpetajate tunniplaanid on segamini välja toodud
