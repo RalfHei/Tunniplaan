@@ -6,6 +6,8 @@ Antud projekt on mõeldud Kuressaare Ametikooli tunniplaani lehekülje kasutajas
 ## Mida me kasutasime tunniplaani loomiseks?
 * [Figma](https://www.figma.com/file/qmt6xF2MijiVqTRAsB8JJz/Tunniplaan) - Veebilehe disain
 * [GitHub](https://github.com/RalfHei/Tunniplaan) - Kasutame GitHubi failide üleslaadimiseks
+* [Slack](https://slack.com/intl/en-ee/) - Suhtlemine ja info jagamine
+* [Visual Studio](https://code.visualstudio.com/) - Koodi kirjutamine
 
 ## Probleemid
 * 1h30min tunnid on poolitatud 45 minutilisteks tundideks
