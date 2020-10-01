@@ -1,6 +1,7 @@
 # Tunniplaan
 
 ## Sissejuhatus
+Antud projekt on mõeldud Kuressaare Ametikooli tunniplaani lehekülje kasutajasõbralikumaks muutmine, selle disainimiseks võimaldavate programmide tutvumiseks ja meeskonnatööga harjumiseks.
 
 ## Lingid
 
