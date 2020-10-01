@@ -2,12 +2,15 @@ body {
     padding: 0;
     margin: 0;
     background-color: #C4C4C4;
+    display: block;
+    width: full;
+    overflow-x: hidden;
 }
 
 .header {
     background: #2B517E;
     height: 162px;
-    width: 100vw;
+    width: 100%;
 }
 
 .menubutton {
@@ -65,4 +68,22 @@ body {
     background: #F06520;
     border: none;
     outline: none;
+}
+
+.lesson {
+    height: 66px;
+    width: 100%;
+    background: white;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.main-container {
+    margin: 10px;
+}
+
+.lesson{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
