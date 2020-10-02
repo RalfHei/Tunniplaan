@@ -1,19 +1,10 @@
 <template>
-  <div id="app" class="overflow-hidden">
-    <HelloWorld />
+  <div id="app">
+    <div id="nav">
+    </div>
+    <router-view/>
   </div>
 </template>
-
-<script>
-import HelloWorld from './components/HelloWorld.vue'
-export default {
-  name: 'App',
-  components: {
-    HelloWorld,
-  }
-  
-}
-</script>
 
 <style>
 

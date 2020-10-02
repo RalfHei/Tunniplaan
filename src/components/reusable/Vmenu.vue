@@ -8,9 +8,9 @@
             </nav>
                 <div v-if="!closed" @click="menu" class="lg:hidden mt-10 absolute inset-0 z-40 bg-gray-200">
                     <button class="w-full h-10 my-4 hover:bg-gray-700">
-                        <a href="/#" class="text-2xl">Rühm</a></button>
+                        <router-link class="text-2xl" to="/">Rühm</router-link></button>
                         <button class="w-full h-10 my-4 hover:bg-gray-700">
-                        <a href="/#" class="text-2xl ">Õpetaja</a></button>
+                        <router-link class="text-2xl" to="/about">Õpetaja</router-link></button>
                         <button class="w-full h-10 my-4 hover:bg-gray-700">
                         <a href="/#" class="text-2xl">Klassiruum</a></button>
                 </div>
