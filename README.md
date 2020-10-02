@@ -3,6 +3,14 @@
 ## Sissejuhatus
 Antud projekt on mõeldud Kuressaare Ametikooli tunniplaani lehekülje kasutajasõbralikumaks muutmine, selle disainimiseks võimaldavate programmide tutvumiseks ja meeskonnatööga harjumiseks.
 
+## Tiimi liikmed
+  * Ralf Heinsoo
+  * Terje Volke
+  * Kenneth Lember
+  * Erik Leemet
+  * Timo Pirn
+  * Richard Anwar Rahnik
+
 ## Mida me kasutasime tunniplaani loomiseks?
 * [Figma](https://www.figma.com/proto/qmt6xF2MijiVqTRAsB8JJz/Tunniplaan?node-id=21%3A449&scaling=scale-down) - Veebilehe disain 
 * [GitHub](https://github.com/) - Kasutame GitHubi failide üleslaadimiseks
