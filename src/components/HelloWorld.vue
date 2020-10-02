@@ -1,4 +1,6 @@
 <template>
+<div>
+
   <div class="bg-blue-50 h-40 w-full">
     <div class="h-24">
       <Vmenu/>
@@ -12,17 +14,20 @@
      <Vbutton>L</Vbutton>
      <Vbutton>P</Vbutton>
     </div>
+</div>
+    <Content />
   </div>
 </template>
 
 <script>
-
+import Content from "./Content"
  import Vbutton from '../components/reusable/Vbutton'
  import Vmenu from '../components/reusable/Vmenu'
 export default {
   components: {
     Vbutton,
-    Vmenu
+    Vmenu,
+    Content
   }
 }
 </script>
