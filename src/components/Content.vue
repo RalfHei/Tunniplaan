@@ -1,31 +1,27 @@
 <template>
-<div class="w-screen h-screen z-10 overflow-x-hidden">
-  <hooper class="w-screen h-screen" :navButtons ="false" :slidesToShow = 1>
-    <slide class="slide w-screen h-screen bg-yellow-300">
+<div class="mx-4  h-screen z-10">
+  <hooper class=" h-screen" :navButtons ="true">
+    <slide class=" bg-yellow-300">
         <tr v-for=" c in codes" :key="c">
           <td>{{c}}</td>
           </tr>
     </slide>
-    <slide class="slidew-screen h-screen bg-green-400">
+    <slide class="bg-green-400">
       <h3>Hello2</h3>
     </slide>
-    <slide class="slide w-screen h-screen bg-orange-200">
-      <LessonBox/>
-      <LessonBox/>
+    <slide class="bg-orange-200">
     </slide>
     </hooper>
     </div>
 </template>
 
 <script>
-import LessonBox from "../components/reusable/LessonBox"
 import { Hooper, Slide } from 'hooper';
 import 'hooper/dist/hooper.css';
 export default {
   components: {
     Hooper,
-    Slide,
-    LessonBox
+    Slide
   },
   mounted() {
     this.getData();
